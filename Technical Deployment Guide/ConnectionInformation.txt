@@ -1,6 +1,6 @@
 Azure Storage Account:
-Storage Account Name: 
-Key1: 
+Storage Account Name: personaloffersrm01
+Key1: dorlwkpFMcLAPq2mFodfgSgKEMlBE5p/TRPPolg1ElfLzWznEy0TAR38aemvXEb7UdsxewY0MGkL6NkzEbzZFQ==
 
 Event Hub:
 Event Hub Name: 
